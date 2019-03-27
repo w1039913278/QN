@@ -1,0 +1,64 @@
+{
+  "data": {
+    "hotList": [{
+        "id": 1,
+        "name": "宋城千古情",
+        "price": "310",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1901/8c/8c1d317bc954ce06a3.water.jpg_250x250_62d06f75.jpg"
+      }, {
+        "id": 2,
+        "name": "千岛湖",
+        "price": "9",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/201405/27/8211cadd5d9fefeaa044c5b7eefc695d.jpg_250x250_b5105e04.jpg"
+      },
+      {
+        "id": 3,
+        "name": "西溪国家湿地公园·周家村",
+        "price": "460",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/9a/9a44ea713b93140d90.water.jpg_250x250_d3403cd6.jpg"
+      },
+      {
+        "id": 4,
+        "name": "灵隐寺",
+        "price": "45",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1812/5a/5a4129c70246ac2da3.img.jpg_250x250_1a7f0b42.jpg"
+      },
+      {
+        "id": 5,
+        "name": "杭州乐园",
+        "price": "160",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/201408/14/bc6bb9a732c8832cc302641c8527a040.jpg_250x250_44ca33da.jpg"
+      },
+      {
+        "id": 6,
+        "name": "杭州宋城景区",
+        "price": "378",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1901/8c/8c1d317bc954ce06a3.water.jpg_250x250_62d06f75.jpg"
+      },
+      {
+        "id": 7,
+        "name": "杭州动物园",
+        "price": "420",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/95/95db58d0da425616.water.jpg_250x250_6b81fea7.jpg"
+      },
+      {
+        "id": 8,
+        "name": "超山",
+        "price": "50",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/1b/1beaa7faa3fc6eeb90.water.jpg_250x250_3973d193.jpg"
+      },
+      {
+        "id": 9,
+        "name": "杭州飞来峰",
+        "price": "45",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/57/57ee153a3441d35190.water.jpg_250x250_eebbbbc1.jpg"
+      },
+      {
+        "id": 10,
+        "name": "杭州野生动物世界",
+        "price": "220",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1411/b6/662fc49d1d26a5a7775cf6b7f8b4ecec.water.jpg_250x250_9d8a0a33.jpg"
+      }
+    ]
+  }
+}
